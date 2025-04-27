@@ -1,5 +1,5 @@
 # Crazy Cattle 3D Online Game Website
-👆 visit the link to play: [https://crazycattle-3d.online/](https://crazycattle-3d.online/)</p>*
+👆 visit the link to play: [https://crazycattle-3d.online/](https://crazycattle-3d.online/)
 
 **Welcome to the Crazy Cattle 3D Online Game Website!**
 
